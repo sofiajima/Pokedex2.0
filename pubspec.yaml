@@ -30,6 +30,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   cached_network_image: ^3.0.0
   http: ^0.13.1
+  sqflite: ^2.2.0+3
+  pedometer: ^3.0.0
+  permission_handler: ^10.2.0
 
 dev_dependencies:
   flutter_test:
